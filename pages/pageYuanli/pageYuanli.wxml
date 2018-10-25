@@ -1,2 +1,6 @@
-<!--pages/pageYuanli/pageYuanli.wxml-->
-<text>pages/pageYuanli/pageYuanli.wxml</text>
+<!-- pages/pageYuanli/pageYuanli.wxml -->
+<view class="" hover-class="none" hover-stop-propagation="false">
+    <image class="head-img" src="../../image/yuanli-3.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload=""></image>
+    <image class="big-img" src="../../image/yuanli-1.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload=""></image>
+    <image class="long-img" src="../../image/yuanli-2.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload=""></image>
+</view>
