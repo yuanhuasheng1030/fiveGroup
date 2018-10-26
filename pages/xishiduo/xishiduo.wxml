@@ -1,0 +1,56 @@
+<!-- pages/xishiduo/xishiduo.wxml -->
+<view class="">
+    <view class="main">
+        <text class="title">喜士多礼品卡</text>
+        <image class="xishiduo" src="../../images/mm_20.png" />
+        <view>
+            <image class="logo" src="../../images/mm_23.png" />
+            <text class="logoText">喜士多心意卡</text>
+        </view>
+        <view >
+        <view class="all">
+        <view>
+                <image class="quan" src="../../images/mm_27.png"/>
+                <view>
+                    <view>
+                        <text  class="lei">10元现金券</text>
+                        <view>
+                            <text  class="lei">￥9.6</text>
+                            <text  class="lei">￥10</text>
+                        </view>
+                    </view>
+                    <text class="lei">不限品类，可兑换任意商品</text>
+                </view>
+            </view>
+
+            <view class="center">
+                <image class="quan" src="../../images/mm_27.png"/>
+                <view>
+                    <view>
+                        <text  class="lei">10元现金券</text>
+                        <view>
+                            <text  class="lei">￥9.6</text>
+                            <text  class="lei">￥10</text>
+                        </view>
+                    </view>
+                    <text class="lei">不限品类，可兑换任意商品</text>
+                </view>
+            </view>
+        </view>
+            
+            <view>
+                <image class="quan" src="../../images/mm_27.png"/>
+                <view>
+                    <view>
+                        <text  class="lei">10元现金券</text>
+                        <view>
+                            <text  class="lei">￥9.6</text>
+                            <text  class="lei">￥10</text>
+                        </view>
+                    </view>
+                    <text class="lei">不限品类，可兑换任意商品</text>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

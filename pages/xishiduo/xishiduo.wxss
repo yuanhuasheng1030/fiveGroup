@@ -1,0 +1,39 @@
+/* pages/xishiduo/xishiduo.wxss */
+.main{
+    margin-left: 45rpx;
+    margin-right: 45rpx;
+    /* padding-top: 70rpx; */
+    /* background-color: blue; */
+}
+.title{
+    font-size: 50rpx;
+}
+.xishiduo{
+    width: 660rpx;
+    height: 420rpx;
+    background-color: coral;
+}
+.logo{
+    width: 93rpx;
+    height: 45rpx;
+    /* background-color: blueviolet; */
+}
+.logoText{
+    font-size: 45rpx;
+    color: gray;
+
+}
+.quan{
+    width: 320rpx;
+    height: 170rpx;
+    background-color: cornflowerblue;
+}
+
+.lei{
+    font-size: 26rpx;
+}
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
