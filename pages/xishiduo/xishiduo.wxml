@@ -24,7 +24,7 @@
             </view>
 
             <view class="center">
-                <image class="quan" src="../../images/mm_27.png"/>
+                <image class="quan" src="../../images/mm_29.png"/>
                 <view>
                     <view>
                         <text  class="lei">10元现金券</text>
@@ -39,7 +39,7 @@
         </view>
             
             <view>
-                <image class="quan" src="../../images/mm_27.png"/>
+                <image class="quan" src="../../images/mm_33.png"/>
                 <view>
                     <view>
                         <text  class="lei">10元现金券</text>
