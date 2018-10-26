@@ -1,0 +1,6 @@
+<!--pages/pageChen/kfc.wxml-->
+<view class="" hover-class="none" hover-stop-propagation="false">
+    <image class="head-img" src="../../image/yuanli-3.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload=""></image>
+    <image class="big-img" src="../../image/DQ_07.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload=""></image>
+    <image class="long-img" src="../../image/DQ_10.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload=""></image>
+</view>

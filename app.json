@@ -1,8 +1,11 @@
 {
   "pages": [
-    "pages/today/today",
+    "pages/pageChen/kfc",
+    "pages/pageYuanli/pageYuanli",
     "pages/index/index",
     "pages/logs/logs",
+    "pages/cardTwo/cardTwo",
+    "pages/today/today",
     "pages/tianfu/tianfu"
   ],
   "window": {
