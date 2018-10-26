@@ -1,0 +1,58 @@
+<!-- pages/cardTwo/cardTwo.wxml -->
+<view class="">
+    <view class="head">
+        <view class="head-card">
+            <image class="img-card" src="{{url}}/card/ee_03.png"></image>
+            <text class="">喜士多</text>
+        </view>
+        <view class="head-card">
+            <image class="img-card" src="{{url}}/card/ff_03.png"></image>
+            <text class="">DQ冰雪皇后</text>
+        </view>
+        <view class="head-card">
+            <image class="img-card1" src="{{url}}/card/gg_03.png"></image>
+            <text class="">肯德基</text>
+        </view>
+        <view class="head-card">
+            <image class="img-card" src="{{url}}/card/hh_03.png"></image>
+            <text class="">必胜客</text>
+        </view>
+        <view class="head-card">
+            <image class="img-card" src="{{url}}/card/jj_03.png"></image>
+            <text class="">全家</text>
+        </view>
+    </view>
+    <view class="">
+        <image class="big-img" src="{{url}}/card/aa_03.png"></image>
+    </view>
+    <view class="liping">
+        <image class="liping-img" src="{{url}}/card/kk_03.png"></image>
+        <text class="">肯德基礼品卡</text>
+    </view>
+    <view class="samll-card">
+        <view class="samll-item">
+            <image class="samll-img" src="{{url}}/card/bb_03.png"></image>
+            <view class="samll-text">
+                <text class="">50元礼品卡</text>
+                <text class="">￥45.7</text>
+            </view>
+            <text class="">今晚一起开球吧！</text>
+        </view>
+        <view class="samll-item">
+            <image class="samll-img" src="{{url}}/card/cc_03.png"></image>
+            <view class="samll-text">
+                <text class="">100元礼品卡</text>
+                <text class="">￥95</text>
+            </view>
+            <text class="">送给一家人浓浓的心意</text>
+        </view>
+        <view class="samll-item">
+            <image class="samll-img" src="{{url}}/card/dd_03.png"></image>
+            <view class="samll-text">
+                <text class="">200元礼品卡</text>
+                <text class="">￥190</text>
+            </view>
+            <text class="">一份心意，送去生日的祝福</text>
+        </view>
+    </view>
+</view>
