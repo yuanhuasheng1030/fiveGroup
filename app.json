@@ -1,8 +1,9 @@
 {
   "pages": [
-    "pages/cardTwo/cardTwo",
+    "pages/pageYuanli/pageYuanli",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/cardTwo/cardTwo"
     
   ],
   "window": {
