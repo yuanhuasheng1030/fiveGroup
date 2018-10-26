@@ -1,0 +1,47 @@
+/* pages/tianfu/tianfu.wxss */
+.img{
+  width: 100rpx;
+  height: 100rpx
+}
+.head{
+  display: flex;
+  justify-content: space-around;
+  font-size: 26rpx;
+  margin-top: 30rpx
+}
+.log{
+  display: flex;
+  flex-direction: column;
+  text-align: center
+}
+.backimg{
+  margin-left: 40rpx;
+  margin-right: 40rpx;
+  margin-top: 30rpx
+}
+.im{
+width: 100%;
+height: 400rpx
+}
+.text{
+  margin-left: 40rpx;
+  margin-top: 20rpx;
+  font-size: 30rpx
+}
+.youhui{
+  width: 43%;
+  height: 300rpx
+}
+.pai{
+  display: flex;
+  justify-content: space-around
+}
+.wushi{
+   width: 43%;
+  height: 300rpx;
+  margin-left: 30rpx
+}
+.yun{
+  width: 50rpx;
+  height: 30rpx
+}

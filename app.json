@@ -2,7 +2,10 @@
   "pages": [
     "pages/xishiduo/xishiduo",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/cardTwo/cardTwo",
+    "pages/today/today",
+    "pages/tianfu/tianfu"
   ],
   "window": {
     "backgroundTextStyle": "light",

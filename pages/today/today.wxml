@@ -1,0 +1,40 @@
+<!--pages/today/today.wxml-->
+<!-- <text>pages/today/today.wxml</text> -->
+<view>
+  <view class="head">
+    <view class='log'>
+      <image src='../image/kajuan_06.png' class="img"></image>
+      <text>肯德基</text>
+    </view>
+    <view class='log'>
+      <image src='../image/kapian_03.png' class="img"></image>
+      <text>必胜客</text>
+    </view >
+    <view class='log'>
+      <image src='../image/kajuan_03.png' class="img"></image>
+      <text>全家</text>
+    </view>
+    <view class='log'>
+      <image src='../image/kajuan_09.png' class="img"></image>
+      <text>广州天福</text>
+    </view>
+    <view class='log'>
+      <image src='../image/kajuan_12.png' class="img"></image>
+      <text>三林</text>
+    </view>
+  </view>
+  <view class='backimg'>
+  <image src='../image/bishengke_03.png' class='im'></image>
+  </view>
+  <view class='text'>
+  <image src='../image/kapian_07.png' class='yun'></image>
+  <text>全家心意卡</text>
+  </view>
+  <view>
+  <view class='pai'>
+  <image src='../image/bishengke_06.png' class='youhui'></image>
+  <image src='../image/bishengke_08.png' class='youhui'></image>
+  </view>
+  <image src='../image/bishengke_12.png' class='wushi'></image>
+  </view>
+</view>
