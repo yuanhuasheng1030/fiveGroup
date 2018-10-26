@@ -1,0 +1,62 @@
+/* pages/cardTwo/cardTwo.wxss */
+.img-card{
+    width: 100rpx;
+    height: 100rpx;
+}
+.head-card{
+    display: flex;
+    flex-direction: column;
+    font-size: 10pt;
+    align-items: center;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-card1{
+    width: 160rpx;
+    height: 160rpx;
+}
+.big-img{
+    padding: 20rpx;
+    box-sizing: border-box;
+    width: 100%;
+    height: 400rpx;
+}
+.liping{
+    width: 100%;
+    padding: 20rpx;
+    box-sizing: border-box;
+    height: 40rpx;
+    font-size: 12pt;
+    display: flex;
+}
+.liping-img{
+    width: 60rpx;
+    height: 40rpx;
+}
+.samll-card{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 20rpx;
+    box-sizing: border-box;
+    justify-content: space-between;
+    margin-top: 40rpx;
+}
+.samll-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 8pt;
+    width: 47%;
+    margin-top: 20rpx;
+}
+.samll-img{
+    width: 100%;
+    height: 200rpx;
+}
+.samll-text{
+    display: flex;
+}

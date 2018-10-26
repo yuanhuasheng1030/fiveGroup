@@ -1,8 +1,10 @@
 {
   "pages": [
-   "pages/pageChen/kfc",
+    "pages/pageChen/kfc",
+    "pages/pageYuanli/pageYuanli",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/cardTwo/cardTwo"
   ],
   "window": {
     "backgroundTextStyle": "light",

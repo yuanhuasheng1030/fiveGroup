@@ -12,8 +12,13 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.3.0",
+<<<<<<< HEAD
 	"appid": "wxec8639ab323b8fe3",
 	"projectname": "fiveGroup",
+=======
+	"appid": "wx529f418653143fc5",
+	"projectname": "project",
+>>>>>>> cb86d9804ee4d264fa1902b89ffcc1d2b3212ff3
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
