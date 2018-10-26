@@ -1,0 +1,79 @@
+/* pages/lml/lml.wxml.wxss */
+.root{
+    width: 750rpx;
+    height: auto;
+}
+.head{
+    width:100%;
+    height:600rpx;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bigImg{
+    width: 90%;
+    height: 100%;
+}
+.cardTitle{
+    width: 100%;
+    height: 90rpx;
+    margin: auto;
+    margin-top: 50rpx;
+    color: #545045;
+    font-size: 30rpx;
+    display: flex;
+    align-items: center;
+    padding-left: 40rpx;
+}
+.cardImg{
+    width: 80rpx;
+    height: 50rpx;
+}
+.pictrue{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+}
+
+.child{
+    width:50%;
+    height: 410rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.child-img{
+    width: 90%;
+    height: 270rpx;
+}
+.mid{
+    width: 100%;
+    height: 60rpx;
+    color: #333333;
+    font-size: 26rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.red{
+    width: 100rpx;
+    height: 60rpx;
+    color: #d73d3d;
+    font-size: 24rpx;
+    text-align: center;
+    line-height: 60rpx;
+}
+.bttom{
+    width: 100%;
+    height: 60rpx;
+    color: #5e5e5e;
+    font-size: 22rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

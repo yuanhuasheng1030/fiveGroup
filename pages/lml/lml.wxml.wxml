@@ -1,0 +1,55 @@
+<!--pages/lml/lml.wxml.wxml-->
+<view class="root">
+    <view class="head">
+        <image class="bigImg" src="../img/big_03.png"></image>
+    </view>
+
+    <view class="cardTitle">
+        <image class="cardImg" src="../img/01_03.png" ></image>DQ电子缤纷卡
+    </view>
+
+    <view class="pictrue">
+        <view class="child">
+             <image class="child-img" src="../img/Same_03.png"></image>
+             <view class="mid">
+                   <text class="" >20元电子冰纷....</text>
+                    <text class="red" >￥18</text>
+             </view>
+             <view class="bttom">可直接抵扣等价产品，多次使用</view>
+           
+        </view>
+
+        <view class="child">
+             <image class="child-img" src="../img/Same_03.png"></image>
+              <view class="mid">
+                   <text class="" >30元电子冰纷....</text>
+                    <text class="red" >￥27</text>
+             </view>
+             <view class="bttom">可直接抵扣等价产品，多次使用</view>
+        </view>
+
+        <view class="child">
+             <image class="child-img" src="../img/Same_03.png"></image>
+              <view class="mid">
+                   <text class="" >50元电子冰纷....</text>
+                    <text class="red" >￥45</text>
+             </view>
+             <view class="bttom">可直接抵扣等价产品，多次使用</view>
+        </view>
+
+        <view class="child">
+             <image class="child-img" src="../img/Same_03.png"></image>
+              <view class="mid">
+                   <text class="" >200元电子冰纷....</text>
+                    <text class="red" >￥180</text>
+             </view>
+             <view class="bttom">可直接抵扣等价产品，多次使用</view>
+        </view>
+        <view class="child">
+           
+        </view>
+
+
+
+    </view>
+</view>
